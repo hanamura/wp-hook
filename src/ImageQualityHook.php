@@ -2,7 +2,7 @@
 
 namespace WPHook;
 
-class ImageQuelityHook
+class ImageQualityHook
 {
   function __construct()
   {
